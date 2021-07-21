@@ -87,3 +87,5 @@ A link to your public Trello board.
 A question within the context of today's lab assignment.
 An observation about the lab assignment, or related 'Ah-hah!' moment.
 How long you spent working on this assignment.
+
+![whiteboard](./lab7_whiteboard.png)
